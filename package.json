@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "name": "portifolio-arthur",
+  "version": "1.0.0",
+  "description": "Portifolio de sites, web design e código feito por Arthur Reis",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arthuringz/portifolio-arthur.git"
+  },
+  "author": "Arthur Felipe S Reis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arthuringz/portifolio-arthur/issues"
+  },
+  "homepage": "https://github.com/Arthuringz/portifolio-arthur#readme"
+}
